@@ -7,4 +7,4 @@ Customized Calendar Flutter page Development.
 I have changed some source file of external package
 [https://pub.dartlang.org/packages/flutter_calendar]flutter_calendar
 
-<img src="screen.jpg" width="200">
+<img src="screen.jpg" width="400">
